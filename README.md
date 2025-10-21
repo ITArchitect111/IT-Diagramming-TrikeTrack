@@ -1,7 +1,7 @@
-# IT-Diagramming-Ordering-System
+# IT-Diagramming-TrikeTrack
 ## Description
 This project demonstrates a complete IT Diagram setup using:
-- **7 Start**
+- **11 Process**
 - **13 Task**
 - **2 Gateway**
 - **2 End Event**
