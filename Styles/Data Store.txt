@@ -1,0 +1,1 @@
+html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;fillColor=#dae8fc;strokeColor=#000000;
